@@ -1,10 +1,12 @@
 ---
-layout: page
-title: A Tribute to all the WhatsApp Uncles
-permalink: /about
-comments: true
----
-
+layout: post
+title: Introduction | పరిచయం 
+author: SP
+image: assets/images/0000.jpg
+categories: [telugu, english, hindi]
+tags: [intro]
+featured: true
+toc: true
 ---
 
 #### TL;DR version
@@ -29,10 +31,8 @@ At a high level, this is how this site came into existence.
 
 1. Export the WhatsApp chat by excluding the media
 1. Load that data into a python program
-1. Split the raw file into individual messages (some messages spawn into multiple lines, hence they need to 
-be accounted for in the logic)
-1. strip any confidential information out of these messages (you don't want to post the raging rant of a 
-furious uncle into the internet)
+1. Split the raw file into individual messages (some messages spawn into multiple lines, hence they need to be accounted for in the logic)
+1. strip any confidential information out of these messages (you don't want to post the raging rant of a furious uncle into the internet)
 1. start swimming through the sea of messages by ignoring the `Hi` `Hello` messages and pick the long forwards
 1. identify the language - the biggest problem so far as we also make use of `Tenglish` and `Hinglish`
 1. filter duplicate messages
