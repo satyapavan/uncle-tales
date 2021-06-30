@@ -13,27 +13,42 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  author-1:
     name: Sal
     display_name: తోట రాముడు
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/author-1.png'
     #email: wowthemesnet@gmail.com
     #web: https://www.wowthemes.net
     #twitter: https://twitter.com/wowthemesnet
     description: "రంగు పడుద్ది"
-  chanti:
+  author-2:
     name: chanti
     display_name: చంటిగాడు 
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/author-2.png'
     #email: wowthemesnet@gmail.com
     #web: https://www.wowthemes.net
     #twitter: https://twitter.com/wowthemesnet
     description: "చంటిగాడు local"
+  author-3:
+    name: Mr. Bing
+    display_name: Chandler Bing 
+    avatar: 'assets/images/author-3.png'
+    #email: wowthemesnet@gmail.com
+    #web: https://www.wowthemes.net
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Your funny man"
+  author-4:
+    name: Mrs. Green
+    display_name: Rachel Green
+    avatar: 'assets/images/author-4.png'
+    #email: wowthemesnet@gmail.com
+    #web: https://www.wowthemes.net
+    #twitter: https://twitter.com/wowthemesnet
+    description: "The indecisive damsel"
   SP:
     name: SP
     display_name: Satya Pavan    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    avatar: 'assets/images/author-sp.png'
     #email: wowthemesnet@gmail.com
     web: https://satyapavan.github.io/
     #twitter: https://twitter.com/wowthemesnet
