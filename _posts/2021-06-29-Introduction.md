@@ -3,10 +3,11 @@ layout: post
 title: Introduction | పరిచయం 
 author: SP
 image: assets/images/0000.jpg
-categories: [telugu, english, hindi]
+categories: []
 tags: [intro]
 featured: true
 toc: true
+hidden: true
 ---
 
 #### TL;DR version
