@@ -22,7 +22,7 @@ remaining 50% are annoyed.
 
 This blog is a tribute `by the` annoyed `to the` excited audience.
 
-This blog is the quintessential WhatsApp Uncle coming into existence
+This is the quintessential WhatsApp Uncle coming into existence
 
 #### Implementation
 At a high level, this is how this site came into existence.
@@ -38,7 +38,7 @@ furious uncle into the internet)
 1. filter duplicate messages
 1. post them into the blog
 
-For an elaborate implementation please head over the github implementation.
+For an elaborate implementation please head over to the github implementation.
 
 #### Next steps
 Sounds good, so what's next?

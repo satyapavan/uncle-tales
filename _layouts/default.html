@@ -77,6 +77,16 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 
+		<li class="nav-item dropdown">
+        		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Suggestions
+        		</a>
+        		<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          		<a class="dropdown-item" href="{{ site.baseurl }}/categories#2-min-read">2 min reads</a>
+          		<a class="dropdown-item" href="{{ site.baseurl }}/categories#5-min-read">5 min reads</a>
+          		<a class="dropdown-item disabled" href="{{ site.baseurl }}/categories#long-read">Long reads</a>
+        		</div>
+      		</li>
                 {% include search-lunr.html %}
 
             </ul>
@@ -161,7 +171,7 @@ ga('send', 'pageview');
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                A product of <a target="_blank" href="satyapavan.github.io/">Satya Pavan's</a> innovation factory
+                A product of <a target="_blank" href="https://satyapavan.github.io/">Satya Pavan's</a> innovation factory
             </div>
         </div>
     </div>
