@@ -7,6 +7,7 @@ categories: []
 tags: [intro]
 featured: true
 toc: true
+excerpt: A tribute by the annoyed to the excited
 hidden: true
 ---
 
